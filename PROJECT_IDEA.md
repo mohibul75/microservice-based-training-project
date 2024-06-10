@@ -99,7 +99,7 @@ An Event Booking System designed as a microservices architecture to manage and a
 
 ### Phase 1: Basic Features
 - Implement User Management, Event Management, and Booking Services.
-- Set up the database and API gateway.
+- Set up the database and Nginx.
 - Develop front-end for basic user interactions.
 
 ### Phase 2: Advanced Features
